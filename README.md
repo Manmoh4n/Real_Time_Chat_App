@@ -17,14 +17,14 @@
 12. Here is some Demo in which Two user chat with each other.
 
 13. User 1: Manmohan
+
 14. 
 15. <img width="954" alt="image" src="https://github.com/Manmoh4n/Real_Time_Chat_App/assets/90148527/3551247e-c04a-40aa-894a-aba36e0e2f4a">
-
-    
 
     User2 : Rohit
     
     <img width="922" alt="image" src="https://github.com/Manmoh4n/Real_Time_Chat_App/assets/90148527/3a46641b-5c9d-4027-8f3e-f014702b49a9">
+
 
 
 
